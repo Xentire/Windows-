@@ -81,7 +81,7 @@ With the ubiquity of digital images in modern applications, image processing has
 ## 6. Clone Address
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Xentire/Windows-.git
 cd ImageProcessingTool
 dotnet build
 dotnet test
